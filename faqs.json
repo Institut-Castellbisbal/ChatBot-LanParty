@@ -1,1 +1,17 @@
-
+[
+    {
+        "pregunta": "quin és l'horari de l'esdeveniment?",
+        "respuesta": "L'esdeveniment està obert 24 hores des de divendres a les 17:00 fins diumenge a les 16:00.",
+        "categoria": "horaris"
+    },
+    {
+        "pregunta": "com em connecto al wi-fi?",
+        "respuesta": "Has d'utilitzar el cable de xarxa subministrat. El Wi-Fi 'LAN_Invitats' és només per a consultes ràpides amb la clau: LANParty2026.",
+        "categoria": "xarxa"
+    },
+    {
+        "pregunta": "hi haurà servei de menjar?",
+        "respuesta": "Sí, hi ha una zona de cafeteria oberta de 08:00 a 23:00 i servei de pizza a domicili concertat.",
+        "categoria": "menjar"
+    }
+]
