@@ -1,17 +1,46 @@
 [
     {
-        "pregunta": "quin és l'horari de l'esdeveniment?",
-        "respuesta": "L'esdeveniment està obert 24 hores des de divendres a les 17:00 fins diumenge a les 16:00.",
-        "categoria": "horaris"
+        "pregunta": "quin es l'horari de la lan?",
+        "resposta": "L'entrada i muntatge comença el dissabte a les 10:00h. L'esdeveniment acaba el diumenge a les 17:00h (l'internet es talla a les 16:00h)."
     },
     {
-        "pregunta": "com em connecto al wi-fi?",
-        "respuesta": "Has d'utilitzar el cable de xarxa subministrat. El Wi-Fi 'LAN_Invitats' és només per a consultes ràpides amb la clau: LANParty2026.",
-        "categoria": "xarxa"
+        "pregunta": "quan son els tornejos?",
+        "resposta": "Les classificatòries comencen dissabte a les 16:00h i les finals són diumenge d'11:00h a 13:00h."
     },
     {
-        "pregunta": "hi haurà servei de menjar?",
-        "respuesta": "Sí, hi ha una zona de cafeteria oberta de 08:00 a 23:00 i servei de pizza a domicili concertat.",
-        "categoria": "menjar"
+        "pregunta": "on em puc dutxar?",
+        "resposta": "Pots anar a les dutxes de la Illa Esportiva el diumenge de 08:30h a 11:00h. No oblidis portar la pulsera posada!"
+    },
+    {
+        "pregunta": "no tinc internet, que faig?",
+        "resposta": "Revisa que el cable estigui ben connectat i que no tinguis una IP fixa (posa DHCP automàtic). El WiFi del pavelló no és per jugar!"
+    },
+    {
+        "pregunta": "puc portar una cafetera o ventilador?",
+        "resposta": "No! La regla d'or és: només una torre/portàtil i un monitor. Dispositius extra poden fer caure l'electricitat de tota la fila."
+    },
+    {
+        "pregunta": "on es pot dormir?",
+        "resposta": "A les grades o sales annexes amb el teu sac i esterilla. Si ronques fort, demana perdó per avançat!"
+    },
+    {
+        "pregunta": "quina es la direccio per demanar menjar?",
+        "resposta": "La direcció per als repartidors és Avinguda Pau Casals, 16. Has d'anar a recollir la comanda a la porta exterior."
+    },
+    {
+        "pregunta": "que faig amb la escombraria?",
+        "resposta": "Cada taula ha de quedar neta. Tens contenidors de reciclatge a l'entrada del pavelló."
+    },
+    {
+        "pregunta": "hi ha microones?",
+        "resposta": "Sí, hi ha una zona al hall amb microones i neveres comunes. Marca el teu menjar amb el teu nom!"
+    },
+    {
+        "pregunta": "com reconec als organitzadors?",
+        "resposta": "Busca la gent de l'Staff (Asalcai) amb la samarreta oficial. Si hi ha problemes de xarxa, ves a la mesa de control."
+    },
+    {
+        "pregunta": "soc menor, que necessito?",
+        "resposta": "Si et quedes a dormir, has de lliurar l'autorització signada físicament al control d'entrada."
     }
 ]
